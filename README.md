@@ -19,4 +19,6 @@ Some public repositories that are worth mentioning:
 4. [master-thesis](https://github.com/lucasbruscato/master-thesis): the code used for writing my master thesis project.
 5. [UsingOpenCV](https://github.com/lucasbruscato/UsingOpenCV): a vanilla wrapper over an openCV library with some [funny results](https://github.com/lucasbruscato/UsingOpenCV/blob/master/output_images/2.png).
 
-<center><img src="https://github.com/lucasbruscato/lucasbruscato/blob/main/img/obsidian.png" width="400px" height="auto"></center>
+<p align="center">
+  <img src="https://github.com/lucasbruscato/lucasbruscato/blob/main/img/obsidian.png" width="400px" height="auto" />
+</p>
