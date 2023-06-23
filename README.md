@@ -20,5 +20,5 @@ Some public repositories that are worth mentioning:
 5. [UsingOpenCV](https://github.com/lucasbruscato/UsingOpenCV): a vanilla wrapper over an openCV library with some [funny results](https://github.com/lucasbruscato/UsingOpenCV/blob/master/output_images/2.png).
 
 <p align="center">
-  <img src="https://github.com/lucasbruscato/lucasbruscato/blob/main/img/obsidian.png" width="400px" height="auto" />
+  <img src="https://github.com/lucasbruscato/lucasbruscato/blob/main/img/obsidian.png" width="600px" height="auto" />
 </p>
