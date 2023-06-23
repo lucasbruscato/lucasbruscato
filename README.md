@@ -2,7 +2,7 @@
 
 💻 Head of Data, currently leading a team of high performing data scientists and data engineers at [Tinka](https://www.tinka.com/).
 
-📍 Born and raised in Sao Paulo, Brazil 🇧🇷 but currently living in Stockholm, Sweden 🇸🇪
+📍 Born and raised in Sao Paulo, Brazil 🇧🇷, but currently working and living in Stockholm, Sweden 🇸🇪.
 
 My professional summary:
 - 9+ years of experience with data
