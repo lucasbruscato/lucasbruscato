@@ -1,16 +1,20 @@
-### Hi there 👋
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi there, I'm Lucas Bruscato!
 
-<!--
-**lucasbruscato/lucasbruscato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Head of Data, currently leading a team of high performing data scientists and data engineers at [Tinka](https://www.tinka.com/).
 
-Here are some ideas to get you started:
+📍 Born and raised in Sao Paulo, Brazil 🇧🇷 but currently living in Stockholm, Sweden 🇸🇪
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My professional summary would be:
+- 9+ years of experience with data
+- BSc. in Applied Mathematics and MSc. in Statistics
+- 7 specializations and 60+ certified online courses
+
+You can find more information about my professional experience in my [LinkedIn](https://www.linkedin.com/in/lucasbruscato/).
+
+Some interesting public repos - you can find all of them [here](https://github.com/lucasbruscato?tab=repositories)) - worth mentioning:
+
+1. mental-library: 
+2. [data-science-study](https://github.com/lucasbruscato/data-science-study): a collection of notes and code from some of the courses I've studied whilst building my career.
+3. [mltoolkit](https://github.com/lucasbruscato/mltoolkit): a "home-made" ML toolkit used in a hackathon in 2019.
+4. [master-thesis](https://github.com/lucasbruscato/master-thesis): the code used for writing my master thesis project.
+5. [UsingOpenCV](https://github.com/lucasbruscato/UsingOpenCV): a vanilla wrapper over an openCV library with some [funny results](https://github.com/lucasbruscato/UsingOpenCV/blob/master/output_images/2.png).
