@@ -9,10 +9,10 @@ My professional summary:
 - BSc. in Applied Mathematics and MSc. in Statistics
 - 7 specializations and 60+ certified online courses
 
-More on my professional experiences, please check my [LinkedIn](https://www.linkedin.com/in/lucasbruscato/) profile. In case you're interested in what I've read and what I'm currently reading, check it out my [GoodReads](https://www.goodreads.com/user/show/62731123-lucas-bruscato) profile.
+More on my professional experiences, please check my [LinkedIn](https://www.linkedin.com/in/lucasbruscato/) profile, and, in case you're interested in what I've read and what I'm currently reading, check out my [GoodReads](https://www.goodreads.com/user/show/62731123-lucas-bruscato) profile.
 
 I'm a lifelong learner with a passion for these areas:
-1. `Data Science` and `MLOps`:
+1. `Data Science` and `MLOps`
 2. `Data Engineering` and `IaC`
 3. `Team Management`, `Coaching` and `Agile methodologies`
 4. `Automation` and `Web Scraping`
