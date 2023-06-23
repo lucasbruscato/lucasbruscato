@@ -4,7 +4,7 @@
 
 📍 Born and raised in Sao Paulo, Brazil 🇧🇷 but currently living in Stockholm, Sweden 🇸🇪
 
-My professional summary would be:
+My professional summary:
 - 9+ years of experience with data
 - BSc. in Applied Mathematics and MSc. in Statistics
 - 7 specializations and 60+ certified online courses
