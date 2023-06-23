@@ -1,15 +1,22 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi there, I'm Lucas Bruscato!
 
-💻 Head of Data, currently leading a team of high performing data scientists and data engineers at [Tinka](https://www.tinka.com/).
+💻 Head of Data, currently leading a team of high performing data scientists and data engineers at [Tinka](https://www.tinka.com/)
 
-📍 Born and raised in Sao Paulo, Brazil 🇧🇷, but currently working and living in Stockholm, Sweden 🇸🇪.
+📍 Born and raised in Sao Paulo, Brazil 🇧🇷, but currently working and living in Stockholm, Sweden 🇸🇪
 
 My professional summary:
 - 9+ years of experience with data
 - BSc. in Applied Mathematics and MSc. in Statistics
 - 7 specializations and 60+ certified online courses
 
-More about my professional experiences can be found in my [LinkedIn](https://www.linkedin.com/in/lucasbruscato/) profile.
+More on my professional experiences, please check my [LinkedIn](https://www.linkedin.com/in/lucasbruscato/) profile. In case you're interested in what I've read and what I'm currently reading, check it out my [GoodReads](https://www.goodreads.com/user/show/62731123-lucas-bruscato) profile.
+
+I'm a lifelong learner with a passion for these areas:
+1. `Data Science` and `MLOps`:
+2. `Data Engineering` and `IaC`
+3. `Team Management`, `Coaching` and `Agile methodologies`
+4. `Automation` and `Web Scraping`
+5. `Personal Finance` and `Financial Portfolio Optimization`
 
 Some of my public repositories worth mentioning:
 
@@ -19,7 +26,7 @@ Some of my public repositories worth mentioning:
 4. [master-thesis](https://github.com/lucasbruscato/master-thesis): the code used for extracting data and writing my master thesis (LaTeX).
 5. [UsingOpenCV](https://github.com/lucasbruscato/UsingOpenCV): a vanilla wrapper I implemented over an openCV library with some [funny results](https://github.com/lucasbruscato/UsingOpenCV/blob/master/output_images/2.png).
 
-The graph view of my current (2023) mental-library:
+The graph view of my current mental-library.
 
 <p align="center">
   <img src="https://github.com/lucasbruscato/lucasbruscato/blob/main/img/obsidian.png" width="600px" height="auto" />
