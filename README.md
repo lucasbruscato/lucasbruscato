@@ -5,9 +5,13 @@
 📍 Born and raised in Sao Paulo, Brazil 🇧🇷, but currently working and living in Stockholm, Sweden 🇸🇪
 
 My professional summary:
-- 9+ years of experience with data
-- BSc. in Applied Mathematics and MSc. in Statistics
+Experienced data professional adept at crafting and implementing data strategies, driving innovation, and leading high-performance teams.
+
+- 10+ years of experience in data (science, engineering and analytics) and 4+ years in management
+- BSc. in Applied Mathematics (University of Campinas) and MSc. in Statistics (University of Sao Paulo)
 - 7 specializations and 60+ certified online courses
+
+AWS Certified: Cloud Practitioner
 
 More on my professional experiences, please check my [LinkedIn](https://www.linkedin.com/in/lucasbruscato/) profile, and, in case you're interested in what I've read and what I'm currently reading, check out my [GoodReads](https://www.goodreads.com/user/show/62731123-lucas-bruscato) profile.
 
