@@ -1,6 +1,6 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi there, I'm Lucas Bruscato!
 
-💻 Head of Data, currently leading a team of high performing data scientists and data engineers at [Tinka](https://www.tinka.com/)
+💻 Head of Data, currently leading a team of high performing data scientists, data engineers and data analysts at [Tinka](https://www.tinka.com/)
 
 📍 Born and raised in Sao Paulo, Brazil 🇧🇷, but currently working and living in Stockholm, Sweden 🇸🇪
 
